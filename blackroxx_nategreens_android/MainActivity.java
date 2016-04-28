@@ -67,6 +67,8 @@ public class MainActivity extends FragmentActivity {
         initializeLogging();
     }
  
+	// another smart comment that should fix some bugs
+ 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         getMenuInflater().inflate(R.menu.main, menu);
