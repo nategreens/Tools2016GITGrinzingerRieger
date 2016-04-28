@@ -69,6 +69,7 @@ public class MainActivity extends FragmentActivity {
     public boolean onCreateOptionsMenu(Menu menu) {
         getMenuInflater().inflate(R.menu.main, menu);
         return true;
+	//commenting commenting commenting I'm so smart
     }
  
     @Override
@@ -112,6 +113,7 @@ public class MainActivity extends FragmentActivity {
  
 		// THIS COMMENT IS FOR THE GIT EXERCISE
 		// MIKE WAS HERE
+		// NATE WAS HERE TOO! HELLO MIKE
  
 		Log.d("GIT", "Test");
  
