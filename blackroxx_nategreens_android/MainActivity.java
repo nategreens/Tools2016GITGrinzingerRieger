@@ -133,6 +133,7 @@ public class MainActivity extends FragmentActivity {
     }
 
 	public void thisIsANewMethod(){
+	int i = 0;
 	
 	}
 }
