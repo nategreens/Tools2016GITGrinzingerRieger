@@ -110,6 +110,11 @@ public class MainActivity extends FragmentActivity {
     /** Create a chain of targets that will receive log data */
     public void initializeLogging() {
  
+		// THIS COMMENT IS FOR THE GIT EXERCISE
+		// MIKE WAS HERE
+ 
+		Log.d("GIT", "Test");
+ 
         // Using Log, front-end to the logging chain, emulates
         // android.util.log method signatures.
  
