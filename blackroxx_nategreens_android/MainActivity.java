@@ -135,8 +135,6 @@ public class MainActivity extends FragmentActivity {
     }
 
 	public void thisIsANewMethod(){
-		Log.d("GIT", "Test");
-		int i = 0;
-	//Now we have to add a few lines and commit a couple of times.
+	//Now we delete a couple of things to simulate continuous workflow
 	}
 }
