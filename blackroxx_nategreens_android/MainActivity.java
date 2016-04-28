@@ -126,4 +126,8 @@ public class MainActivity extends FragmentActivity {
                 (LogFragment) getSupportFragmentManager().findFragmentById(R.id.log_fragment);
         msgFilter.setNext(mLogFragment.getLogView());
     }
+
+	public void thisIsANewMethod(){
+	
+	}
 }
