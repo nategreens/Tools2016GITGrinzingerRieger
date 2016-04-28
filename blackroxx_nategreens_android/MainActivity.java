@@ -51,6 +51,7 @@ public class MainActivity extends FragmentActivity {
     // as necessary.
     private LogFragment mLogFragment;
  
+	// @Override is a really nice thing
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
