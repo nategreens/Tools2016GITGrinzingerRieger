@@ -39,6 +39,7 @@ import com.example.android.common.logger.MessageOnlyLogFilter;
  * fragment (LogFragment).
  */
 public class MainActivity extends FragmentActivity {
+	// This is an example file taken from developer.android.com	
  
     public static final String TAG = "Basic Network Demo";
     // Whether there is a Wi-Fi connection.
