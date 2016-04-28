@@ -133,6 +133,6 @@ public class MainActivity extends FragmentActivity {
     }
 
 	public void thisIsANewMethod(){
-	
+		Log.d("GIT", "Test");
 	}
 }
